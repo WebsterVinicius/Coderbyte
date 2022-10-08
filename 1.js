@@ -14,10 +14,17 @@
 
 function FirstFactorial(num) { 
 
-    // code goes here  
-    return num; 
-  
+    // enter with the number here
+    var num = 4;
+
+    // code goes here
+    var factorial = 1;
+    for (var i = 1; i <= num; i++) {
+        factorial *= i;
+    }
+    return factorial;
+    
   }
      
   // keep this function call here 
-  console.log(FirstFactorial(readline()));
+  console.log(FirstFactorial());
