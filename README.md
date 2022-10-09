@@ -15,5 +15,8 @@ Some coderbyte javascript exercises
 
 2 - First Reverse
 
+3 - Return Negative
+
+4 - Will you make it?
 
 -- Do the exercises yourself through the site: https://www.coderbyte.com/developers --
