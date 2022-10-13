@@ -12,6 +12,7 @@
 // Input: 8
 // Output: 40320
 
+
 function FirstFactorial(num) { 
 
     // enter with the number here

@@ -13,6 +13,7 @@
 // in witch case no change occurred.
 // 0 is not checked for any specific sign.
 
+
 function makeNegative(num) {
     
     // enter the number here

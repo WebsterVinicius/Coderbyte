@@ -10,6 +10,7 @@
 // false (0 if its no possible.
 // The input values are always positive.
 
+
 const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 
     
