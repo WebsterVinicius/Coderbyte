@@ -19,4 +19,8 @@ Some coderbyte javascript exercises
 
 4 - Will you make it?
 
+5 - Thinkful - Logic Drills: Traffic light
+
+6 - Grasshopper - Check for factor
+
 -- Do the exercises yourself through the site: https://www.coderbyte.com/developers --
